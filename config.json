@@ -2,16 +2,15 @@
   "params":
   {
    "local_server": "True",
-    "local_uri": "mysql://root:@localhost/medical",
-    "proud_uri": "mysql://root:@localhost/medical",
+    "local_uri": "mysql://medical:Admin123@meddtata.mysql.database.azure.com/medical",
+    "proud_uri": "mysql://medical:Admin123@meddtata.mysql.database.azure.com/medical",
     "fb_url":"https://github.com/rachelliBhavana",
     "tw_url":"https://github.com/rachelliBhavana",
     "gh_url":"https://github.com/rachelliBhavana",
     "blog_name": "WELCOME",
     "headname": "MEDICAL SUPPLY MANAGEMENT",
-    "user": "test",
-    "password": "test",
+    "user": "medical",
+    "password": "Admin123",
     "login_image": "aple.jpg"
-
   }
 }
