@@ -296,6 +296,3 @@ def medicine():
 
 
     return render_template('medicine.html',params=params)
-
-
-app.run(debug=True)
