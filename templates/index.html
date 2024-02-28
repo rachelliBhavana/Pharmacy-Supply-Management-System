@@ -2,7 +2,7 @@
 {% block body %}
 
   <!-- Page Header -->
-  <header class="masthead mb-0" style="background-image: url('{{url_for('static',filename='img/md.jpg')}}">
+  <header class="masthead mb-0" style="background-image: url('{{url_for('static',filename='img/md.jpg')}}')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -14,24 +14,38 @@
         </div>
       </div>
     </div>
-
   </header>
+
   {% with messages=get_flashed_messages(with_categories=true) %}
   {% if messages %}
   {% for category, message in messages %}
-
   <div class="alert alert-{{category}} alert-dismissible fade show" role="alert">
     {{message}}
-
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
   {% endfor %}
   {% endif %}
   {% endwith %}
 
-  
- 
+  <!-- Chatbot -->
+  <div id="chatbot-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+    <button id="open-chatbot-btn" class="btn btn-primary">Help</button>
+    <div id="chatbot" style="display: none;">
+      <iframe id="chatbot-iframe" src="https://webchat.botframework.com/embed/medicalai-bot?s=h-JgSWkC-9Q.T1XsChx81wOPcWvUiCCq49IlGksKzg_DqqCT5DSXr-c" style="height: 502px; max-height: 502px;"></iframe>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('open-chatbot-btn').addEventListener('click', function() {
+      var chatbotDiv = document.getElementById('chatbot');
+      if (chatbotDiv.style.display === 'block') {
+        chatbotDiv.style.display = 'none';
+      } else {
+        chatbotDiv.style.display = 'block';
+      }
+    });
+  </script>
+
 {% endblock %}
-  
