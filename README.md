@@ -71,6 +71,8 @@ Description :The project leverages Azure MySQL as its database solution to effic
 Description :Azure Bot Service empowers Opportunity Junction with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability.
 ![Screenshot (82)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/149df083-695e-453d-aed0-f19c5a3bbbe8)
 
+**Working Live Project Display :**
+Provided below is a screenshot displaying the operational website, offering a real-time view of the project in action for your reference and review.
 
 ![Screenshot (84)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/6e297f4d-4e98-4c99-8d8f-25e407721e93)
 ![Screenshot (85)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/cfebb744-2c70-4ea8-acac-f76aac4c6fce)
