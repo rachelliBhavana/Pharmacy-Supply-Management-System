@@ -59,6 +59,9 @@ Facilitates interactive communication with AI-powered bots, enabling natural lan
 **Screenshots
 Azure Services :-**
 1) Azure App Service:
-Description : Azure App Service provides a scalable and reliable hosting environment for Opportunity Junction, ensuring seamless deployment and continuous availability to optimize the user experience
+Description : Azure App Service provides a scalable and reliable hosting environment for Phramacy management system, ensuring seamless deployment and continuous availability to optimize the user experience
 ![Screenshot (80)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c505e158-1443-46dd-a17a-78a9575fa0ff)
+
+**2) Azure Database For MySQL :**
+Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
 
