@@ -73,3 +73,10 @@ Description :Azure Bot Service empowers Opportunity Junction with interactive an
 
 
 ![Screenshot (84)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/6e297f4d-4e98-4c99-8d8f-25e407721e93)
+![Screenshot (85)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/cfebb744-2c70-4ea8-acac-f76aac4c6fce)
+![Screenshot (86)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/cae8ff8d-0c4f-4c3a-bb1f-fe5ab6c0464a)
+![Screenshot (87)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/00a14d71-4853-4a60-823f-23e7f16f8242)
+![Screenshot (88)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/4ee1fd55-2252-4acb-9b24-06ddb20886b9)
+![Screenshot (89)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/fb63ebbe-a7c9-4c30-af4a-fdff8419406a)
+![Screenshot (90)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/b83c2d6b-7e63-4940-9a85-427a94d01b80)
+![Screenshot (91)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/715857bb-2e82-48fe-9fdb-cb5630893b38)
