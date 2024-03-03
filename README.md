@@ -45,5 +45,19 @@ Integration with Electronic Health Records (EHR): Integrate with EHR systems to 
 Mobile Compatibility: Develop a mobile-friendly version of the application to enable on-the-go access for users such as pharmacists and inventory managers.
 Automatic Reordering: Implement automatic reordering of medicines based on predefined thresholds to streamline procurement processes and ensure continuous availability of essential medicines.
 
+**Core Azure Services :
+Azure App Service:**
+Hosts and deploys front-end (HTML, CSS, JS) and back-end (Phython) for user interaction.
 
+**Azure Database For MySQL :**
+Used to store and manage user data, ensuring scalability and flexibility.
+
+**Azure AI Service :**
+Azure Bot Service(Language Service):
+Facilitates interactive communication with AI-powered bots, enabling natural language conversations for efficient query resolution and problem-solving.
+
+**Screenshots
+Azure Services :-**
+1) Azure App Service:
+Description : Azure App Service provides a scalable and reliable hosting environment for Opportunity Junction, ensuring seamless deployment and continuous availability to optimize the user experience
 
