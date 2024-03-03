@@ -60,4 +60,5 @@ Facilitates interactive communication with AI-powered bots, enabling natural lan
 Azure Services :-**
 1) Azure App Service:
 Description : Azure App Service provides a scalable and reliable hosting environment for Opportunity Junction, ensuring seamless deployment and continuous availability to optimize the user experience
+![Screenshot (80)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c505e158-1443-46dd-a17a-78a9575fa0ff)
 
