@@ -64,4 +64,8 @@ Description : Azure App Service provides a scalable and reliable hosting environ
 
 **2) Azure Database For MySQL :**
 Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
+![Screenshot (81)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/8b41dfb8-d75c-4e94-a507-f8ccaffa3e69)
 
+**Azure AI Service :**
+**Azure Bot Service(Language Service):**
+Description :Azure Bot Service empowers Opportunity Junction with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability.
