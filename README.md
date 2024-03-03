@@ -82,3 +82,11 @@ Provided below is a screenshot displaying the operational website, offering a re
 ![Screenshot (89)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/fb63ebbe-a7c9-4c30-af4a-fdff8419406a)
 ![Screenshot (90)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/b83c2d6b-7e63-4940-9a85-427a94d01b80)
 ![Screenshot (91)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/715857bb-2e82-48fe-9fdb-cb5630893b38)
+
+**Resource Visualizer :**
+
+Enclosed is a screenshot of the resource visualizer, providing a comprehensive overview of the utilized resources for reference and documentation purposes.
+
+![Screenshot (92)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/271cff95-2c92-4f3d-8e70-6be1040428d1)
+
+
