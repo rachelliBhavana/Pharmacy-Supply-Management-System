@@ -72,3 +72,4 @@ Description :Azure Bot Service empowers Opportunity Junction with interactive an
 ![Screenshot (82)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/149df083-695e-453d-aed0-f19c5a3bbbe8)
 
 
+![Screenshot (84)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/6e297f4d-4e98-4c99-8d8f-25e407721e93)
