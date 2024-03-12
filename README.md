@@ -8,7 +8,7 @@ The Pharmacy Management System is a sophisticated software solution designed to 
 
 **Project Details :**
 
-**Project Demo URL :msupply.azurewebsites.net**
+**Project Demo URL : msupply.azurewebsites.net**
 
 Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
 
