@@ -5,10 +5,9 @@ The Pharmacy Management System is a sophisticated software solution designed to 
 **Microsoft-Future-Ready-Talent-Virtual-Internship-Project**
 **Project Title: Pharmacy Management System**
 **Project Details :**
-**Project Demo URL :**
-**Demo Video URL : 
-Github Repository URL : 
-Industry :**
+**Project Demo URL :msupply.azurewebsites.net**
+** Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing **
+** Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/tree/master **
 
 **Azure Services Used :-**
 
