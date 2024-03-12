@@ -3,11 +3,16 @@
 The Pharmacy Management System is a sophisticated software solution designed to streamline and automate various aspects of medicine supply management within a pharmacy setting. It encompasses a range of functionalities aimed at enhancing efficiency, accuracy, and overall operational effectiveness in handling medicine inventory, orders, suppliers, and other related tasks. By leveraging technologies such as Python Flask and MySQL, this system offers a user-friendly interface for managing the complexities of offline medicine supply, facilitating seamless coordination between different stakeholders and ensuring timely availability of medicines to patients. With features such as inventory management, order tracking, supplier management, and robust reporting capabilities, the Pharmacy Management System revolutionizes traditional pharmacy operations, paving the way for enhanced productivity, cost-effectiveness, and customer satisfaction.
 
 **Microsoft-Future-Ready-Talent-Virtual-Internship-Project**
+
 **Project Title: Pharmacy Management System**
+
 **Project Details :**
+
 **Project Demo URL :msupply.azurewebsites.net**
-** Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing **
-** Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/tree/master **
+
+Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
+
+Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/tree/master 
 
 **Azure Services Used :-**
 
