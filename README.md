@@ -17,8 +17,11 @@ Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Manag
 **Azure Services Used :-**
 
 **1)Core Azure Services:**
+
 **Azure App Service:** Deployed the front-end (html,css,js) for user interaction & backend (python) .
+
 **Azure Database for MySQL servers:** It is used for creating MySQL database to storing and managing students data.
+
 **2)Azure AI Service :**
 Azure AI Bot Service(Language Service) : Azure AI Bot Service facilitates interactive communication with AI-powered bots, enabling users to engage in natural language conversations to address their queries and solve problems efficiently.
 
