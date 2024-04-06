@@ -2,8 +2,8 @@
   "params":
   {
    "local_server": "True",
-    "local_uri": "mysql://medical:Admin123@apache001.mysql.database.azure.com/medical",
-    "proud_uri": "mysql://medical:Admin123@apache001.mysql.database.azure.com/medical",
+    "local_uri": "mysql://medical:Admin123@apache001.mysql.database.azure.com/shubhamj",
+    "proud_uri": "mysql://medical:Admin123@apache001.mysql.database.azure.com/shubhamj",
     "fb_url":"https://github.com/rachelliBhavana",
     "tw_url":"https://github.com/rachelliBhavana",
     "gh_url":"https://github.com/rachelliBhavana",
