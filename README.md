@@ -8,7 +8,7 @@ The Pharmacy Management System is a sophisticated software solution designed to 
 
 **Project Details :**
 
-**Project Demo URL : msupply.azurewebsites.net**
+**Project Demo URL : https://supplym.azurewebsites.net/**
 
 Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
 
@@ -67,19 +67,23 @@ Facilitates interactive communication with AI-powered bots, enabling natural lan
 Azure Services :-**
 1) Azure App Service:
 Description : Azure App Service provides a scalable and reliable hosting environment for Phramacy management system, ensuring seamless deployment and continuous availability to optimize the user experience
+
 ![Screenshot (80)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c505e158-1443-46dd-a17a-78a9575fa0ff)
 
 **2) Azure Database For MySQL :**
 Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
+
 ![Screenshot (81)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/8b41dfb8-d75c-4e94-a507-f8ccaffa3e69)
 
 **Azure AI Service :**
 **Azure Bot Service(Language Service):**
 Description :Azure Bot Service empowers Pharmacy-Supply-Management-System with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability.
+
 ![Screenshot (82)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/149df083-695e-453d-aed0-f19c5a3bbbe8)
 
 **Working Live Project Display :**
 Provided below is a screenshot displaying the operational website, offering a real-time view of the project in action for your reference and review.
+
 
 ![Screenshot (84)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/6e297f4d-4e98-4c99-8d8f-25e407721e93)
 ![Screenshot (85)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/cfebb744-2c70-4ea8-acac-f76aac4c6fce)
@@ -93,6 +97,7 @@ Provided below is a screenshot displaying the operational website, offering a re
 **Resource Visualizer :**
 
 Enclosed is a screenshot of the resource visualizer, providing a comprehensive overview of the utilized resources for reference and documentation purposes.
+
 
 ![Screenshot (92)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/271cff95-2c92-4f3d-8e70-6be1040428d1)
 
