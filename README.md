@@ -1,39 +1,46 @@
 
-**Pharmacy Management System:**
+# Pharmacy Management System:
 The Pharmacy Management System is a sophisticated software solution designed to streamline and automate various aspects of medicine supply management within a pharmacy setting. It encompasses a range of functionalities aimed at enhancing efficiency, accuracy, and overall operational effectiveness in handling medicine inventory, orders, suppliers, and other related tasks. By leveraging technologies such as Python Flask and MySQL, this system offers a user-friendly interface for managing the complexities of offline medicine supply, facilitating seamless coordination between different stakeholders and ensuring timely availability of medicines to patients. With features such as inventory management, order tracking, supplier management, and robust reporting capabilities, the Pharmacy Management System revolutionizes traditional pharmacy operations, paving the way for enhanced productivity, cost-effectiveness, and customer satisfaction.
 
-**Microsoft-Future-Ready-Talent-Virtual-Internship-Project**
+## Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
-**Project Title: Pharmacy Management System**
+## Project Title: Pharmacy Management System
 
-**Project Details :**
+## Project Details :
 
-**Project Demo URL : https://supplym.azurewebsites.net/**
+## Project Demo URL : https://supplym.azurewebsites.net/
 
-Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
+## Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
 
-Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/tree/master 
+## Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/tree/master 
 
-**Azure Services Used :-**
+### Industry : Health
 
-**1)Core Azure Services:**
+## Azure Services Used :-
 
-**Azure App Service:** Deployed the front-end (html,css,js) for user interaction & backend (python) .
+### 1)Core Azure Services:
 
-**Azure Database for MySQL servers:** It is used for creating MySQL database to storing and managing students data.
+### Azure App Service: 
 
-**2)Azure AI Service :**
+Deployed the front-end (html,css,js) for user interaction & backend (python) .
+
+### Azure Database for MySQL servers:
+
+It is used for creating MySQL database to storing and managing medical data.
+
+### 2)Azure AI Service :
+
 Azure AI Bot Service(Language Service) : Azure AI Bot Service facilitates interactive communication with AI-powered bots, enabling users to engage in natural language conversations to address their queries and solve problems efficiently.
 
-**Problem Statement:**
+## Problem Statement:
 
 In the pharmaceutical industry, efficient management of medicine supply is crucial for ensuring availability and accessibility of medicines to patients. However, traditional manual methods of managing inventory often lead to inefficiencies, errors, and delays in supply chain processes. Therefore, there is a need for a comprehensive Pharmacy Management System that can automate and streamline the medicine supply management process, ensuring accuracy, reliability, and timely delivery of medicines to patients.
 
-**Project Description:**
+## Project Description:
 
 The Pharmacy Management System is designed to address the challenges faced in offline medicine supply management by providing a robust database management system. Implemented using Python Flask and MySQL, this system offers a user-friendly interface for managing tasks related to medicine supply. It leverages the functionalities of AMPPS for efficient deployment and customization.
 
-**Key Features:**
+## Key Features:
 
 Medicine Inventory Management: Maintain a comprehensive database of available medicines, including details such as name, quantity, expiry date, and supplier information.
 Order Management: Facilitate the ordering process by enabling users to place orders for required medicines, track order status, and manage delivery schedules.
@@ -43,7 +50,7 @@ Reporting and Analytics: Generate insightful reports and analytics on medicine i
 Alerts and Notifications: Send automated alerts and notifications for low stock levels, pending orders, and upcoming expirations to prevent stockouts and minimize wastage.
 Integration with Billing System: Seamlessly integrate with the billing system to update inventory levels and generate invoices for sold medicines.
 
-**Future Enhancements:**
+## Future Enhancements:
 
 Online Ordering: Enable customers to place orders online through a web portal or mobile app, improving accessibility and convenience.
 Barcode Scanning: Implement barcode scanning functionality to expedite the process of updating inventory and tracking medicines.
@@ -52,36 +59,37 @@ Integration with Electronic Health Records (EHR): Integrate with EHR systems to 
 Mobile Compatibility: Develop a mobile-friendly version of the application to enable on-the-go access for users such as pharmacists and inventory managers.
 Automatic Reordering: Implement automatic reordering of medicines based on predefined thresholds to streamline procurement processes and ensure continuous availability of essential medicines.
 
-**Core Azure Services :
-Azure App Service:**
+## Core Azure Services :
+### Azure App Service:
 Hosts and deploys front-end (HTML, CSS, JS) and back-end (Phython) for user interaction.
 
-**Azure Database For MySQL :**
+### Azure Database For MySQL :
 Used to store and manage user data, ensuring scalability and flexibility.
 
-**Azure AI Service :**
+## Azure AI Service : 
 Azure Bot Service(Language Service):
 Facilitates interactive communication with AI-powered bots, enabling natural language conversations for efficient query resolution and problem-solving.
 
-**Screenshots
-Azure Services :-**
+## Screenshots
+### Azure Services :-
 1) Azure App Service:
 Description : Azure App Service provides a scalable and reliable hosting environment for Phramacy management system, ensuring seamless deployment and continuous availability to optimize the user experience
 
 ![Screenshot (80)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c505e158-1443-46dd-a17a-78a9575fa0ff)
 
-**2) Azure Database For MySQL :**
+### 2) Azure Database For MySQL :
 Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
 
 ![Screenshot (81)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/8b41dfb8-d75c-4e94-a507-f8ccaffa3e69)
 
-**Azure AI Service :**
-**Azure Bot Service(Language Service):**
+## Azure AI Service :
+### Azure Bot Service(Language Service):
 Description :Azure Bot Service empowers Pharmacy-Supply-Management-System with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability.
 
 ![Screenshot (82)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/149df083-695e-453d-aed0-f19c5a3bbbe8)
 
-**Working Live Project Display :**
+## Working Live Project Display :
+
 Provided below is a screenshot displaying the operational website, offering a real-time view of the project in action for your reference and review.
 
 
@@ -94,11 +102,13 @@ Provided below is a screenshot displaying the operational website, offering a re
 ![Screenshot (90)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/b83c2d6b-7e63-4940-9a85-427a94d01b80)
 ![Screenshot (91)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/715857bb-2e82-48fe-9fdb-cb5630893b38)
 
-**Resource Visualizer :**
+## Resource Visualizer :
 
 Enclosed is a screenshot of the resource visualizer, providing a comprehensive overview of the utilized resources for reference and documentation purposes.
 
 
 ![Screenshot (92)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/271cff95-2c92-4f3d-8e70-6be1040428d1)
 
+### Final Project Statement :
 
+The Pharmacy Management System is an advanced software solution designed to streamline medicine supply management in pharmacies. With features like inventory management, order tracking, and supplier management, it enhances efficiency and ensures timely availability of medications. Powered by technologies like Python Flask and MySQL, it revolutionizes traditional pharmacy operations, boosting productivity and customer satisfaction.
